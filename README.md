@@ -1,4 +1,4 @@
-# Digital Library
+# Digital Library Project
 
 
 **Digital Library: A Server/Client Java Application**
